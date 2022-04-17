@@ -1,2 +1,7 @@
-SOURCE_URL>https://github.com/tutao/tutanota/archive/tutanota-release-2.14.4.tar.gz
-SOURCE_SUM=7e2b18072bbb4fe7faf3f0ebac0b107c
+SOURCE_URL=https://github.com/tutao/tutanota/archive/refs/tags/tutanota-release-3.95.1.tar.gz
+SOURCE_SUM=1dff38126ed466b655bbf82a94fef38da88fbcf3cbee960f0ac1db567e654e07
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
+SOURCE_EXTRACT=true
