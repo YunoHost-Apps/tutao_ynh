@@ -5,8 +5,8 @@ It shall NOT be edited by hand.
 
 # Tutanota for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/Tutanota.svg)](https://dash.yunohost.org/appci/app/Tutanota) ![](https://ci-apps.yunohost.org/ci/badges/Tutanota.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/Tutanota.maintain.svg)  
-[![Install Tutanota with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=Tutanota)
+[![Integration level](https://dash.yunohost.org/integration/tutanota.svg)](https://dash.yunohost.org/appci/app/tutanota) ![](https://ci-apps.yunohost.org/ci/badges/tutanota.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/tutanota.maintain.svg)  
+[![Install Tutanota with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tutanota)
 
 *[Lire ce readme en français.](./README_fr.md)*
 
@@ -40,18 +40,18 @@ Default login is "admin", password is the one you choose during install.
 * Official user documentation: https://yunohost.org/apps
 * Official admin documentation: https://yunohost.org/packaging_apps
 * Upstream app code repository: https://github.com/tutao/tutanota
-* YunoHost documentation for this app: https://yunohost.org/app_Tutanota
-* Report a bug: https://github.com/YunoHost-Apps/Tutanota_ynh/issues
+* YunoHost documentation for this app: https://yunohost.org/app_tutanota
+* Report a bug: https://github.com/YunoHost-Apps/tutanota_ynh/issues
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/Tutanota_ynh/tree/testing).
+Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/tutanota_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 ```
-sudo yunohost app install https://github.com/YunoHost-Apps/Tutanota_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/tutanota_ynh/tree/testing --debug
 or
-sudo yunohost app upgrade Tutanota -u https://github.com/YunoHost-Apps/Tutanota_ynh/tree/testing --debug
+sudo yunohost app upgrade tutanota -u https://github.com/YunoHost-Apps/tutanota_ynh/tree/testing --debug
 ```
 
 **More info regarding app packaging:** https://yunohost.org/packaging_apps
