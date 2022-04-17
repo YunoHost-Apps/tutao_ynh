@@ -1,6 +1,6 @@
 {
     "name": "Tutanota",
-    "id": "Tutanota",
+    "id": "tutanota",
     "packaging_format": 1,
     "description": {
         "en": "email service with a strong focus on security and privacy that lets you encrypt emails",
