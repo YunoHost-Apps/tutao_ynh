@@ -15,18 +15,10 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Some long and extensive description of what the app is and does, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Features
-
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco ;
-- Laboris nisi ut aliquip ex ea commodo consequat ;
-- Duis aute irure dolor in reprehenderit in voluptate ;
-- Velit esse cillum dolore eu fugiat nulla pariatur ;
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+Tutanota is the secure email service with built-in end-to-end encryption that enables you to communicate securely with anyone on all your devices.
 
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 3.95.1~ynh1
 
 **Demo:** https://demo.example.com
 
@@ -44,10 +36,10 @@ Default login is "admin", password is the one you choose during install.
 
 ## Documentation and resources
 
-* Official app website: https://example.com
+* Official app website: https://github.com/tutao/tutanota
 * Official user documentation: https://yunohost.org/apps
 * Official admin documentation: https://yunohost.org/packaging_apps
-* Upstream app code repository: https://some.forge.com/example/example
+* Upstream app code repository: https://github.com/tutao/tutanota
 * YunoHost documentation for this app: https://yunohost.org/app_Tutanota
 * Report a bug: https://github.com/YunoHost-Apps/Tutanota_ynh/issues
 
