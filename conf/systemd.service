@@ -6,10 +6,10 @@ After=network.target
 Type=simple
 User=__APP__
 Group=__APP__
-WorkingDirectory=__FINALPATH__/build/dist/
+WorkingDirectory=__FINALPATH__/
 Environment="PATH=__ENV_PATH__"
 Environment="NODE_ENV=production"
-ExecStart=__YNH_NPM__ server #run prod
+ExecStart=__YNH_NPM__ server
 Restart=on-failure
 RestartSec=5
 StartLimitInterval=60s
