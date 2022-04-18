@@ -155,6 +155,7 @@ chown $app:$app "$final_path/some_config_file"
 #=================================================
 ynh_script_progression --message="Upgrading systemd configuration..." --time --weight=1
 
+env_path="$PATH"
 # Create a dedicated systemd config
 ynh_add_systemd_config
 
