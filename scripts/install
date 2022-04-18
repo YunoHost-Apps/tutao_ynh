@@ -118,7 +118,7 @@ pushd $final_path
  	ynh_use_nodejs
 	ynh_exec_warn_less sudo -u $app env $ynh_node_load_PATH $ynh_npm ci
  	ynh_exec_warn_less sudo -u $app env $ynh_node_load_PATH $ynh_npm build-packages
- 	ynh_exec_warn_less sudo -u $app env $ynh_node_load_PATH node webapp prod
+ 	#ynh_exec_warn_less sudo -u $app env $ynh_node_load_PATH node webapp prod
  popd
 
 #=================================================
