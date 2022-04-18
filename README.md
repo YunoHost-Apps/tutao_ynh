@@ -24,7 +24,7 @@ Tutanota is the secure email service with built-in end-to-end encryption that en
 
 ## Screenshots
 
-![](./doc/screenshots/example.jpg)
+![](./doc/screenshots/usermanagement.jpg)
 
 ## Disclaimers / important information
 
